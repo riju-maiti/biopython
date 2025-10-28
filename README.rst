@@ -291,3 +291,5 @@ Distribution Structure
 - ``Doc/``        -- Documentation.
 - ``Scripts/``    -- Miscellaneous, possibly useful, standalone scripts.
 - ``Tests/``      -- Regression testing code including sample data files.
+
+.. This is a test comment for verification purposes
